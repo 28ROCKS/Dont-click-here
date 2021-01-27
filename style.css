@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(0, 225, 255);
+    margin-left:0px;
+}
+html{
+    font-family:'Gill Sans MT';
+}
+hr{
+    width: 1920px;;
+}
+.index{
+    margin-left:8px;
+}
+.footer{
+    display:flex;
+    justify-content: flex-start;
+}
+img{
+    border:5px solid black;
+    border-radius:5px;
+}
+h3{
+    font-size:100px;
+    margin-left: 275px;
+    margin-top: 200px;
+}
+h4{
+    margin-top: 400px;
+    margin-left: 700px;
+}
