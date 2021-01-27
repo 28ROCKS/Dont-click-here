@@ -3,10 +3,10 @@ body{
     margin-left:0px;
 }
 html{
-    font-family:'Gill Sans MT';
+    font-family:Gill Sans MT;
 }
 hr{
-    width: 1920px;;
+    width: 1920px;
 }
 .index{
     margin-left:8px;
@@ -29,8 +29,8 @@ h4{
     margin-left: 700px;
 }
 a:link{
-    color:rgb(13,17,168)
+    color:rgb(13,17,168);
 }
 a:visited{
-    color:rgb(13,17,168)
+    color:rgb(13,17,168);
 }
