@@ -28,3 +28,9 @@ h4{
     margin-top: 400px;
     margin-left: 700px;
 }
+a:link{
+    color:rgb(13,17,168)
+}
+a:visited{
+    color:rgb(13,17,168)
+}
