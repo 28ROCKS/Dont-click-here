@@ -4,4 +4,4 @@ Why did you click here?
 
 This is dangerous for you.
 
-[Lets go to Quora](https://www.quora.com)
+[Do not click on me. I repeat, DO NOT click on me](https://www.quora.com)
